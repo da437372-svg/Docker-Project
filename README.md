@@ -1,9 +1,9 @@
 # Docker-Project
 
-## Puropse of the Project- 📰 New York Post Scheduled Headlines API
-* Create an API that fetches and updates New York Post headlines, then containerize it and push the image to Docker Hub.
+## Puropse of the Project- 📰 Headlines Docker Image
+* Create a Docker image that prints latest newspaper headlines
 
-## 🚀 Pre-requisites - Basic Docker cycle Understanding , Docker desktop Pre-installed and ruuning, and Expereince with pushing docker image to docker-hub.
+## 🚀 Pre-requisites - Basic Docker lifecycle understanding , Docker desktop Pre-installed and ruuning, and Expereince with pushing docker image to docker-hub.
 ## Part A - Installing the core python packages in the terminal-
 * FastAPI (web framework)
 * Uvicorn (ASGI web server)
