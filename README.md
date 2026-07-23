@@ -24,7 +24,10 @@ cd nypost-api
 ```
 
 ## 🛠️ Part C - Typed Query from Chatgpt to generate the python program
-
+* Suggested Query to generate the python program for the API
+  ```
+  Use Python to create a python script for an API that fetches and returns New York Post headlines on scheduled, 15 minute interval.
+  ```
 * Launch Visual Studio Code (or your preferred editor) from the terminal to create the primary Python application script:
 ```
 code main.py
@@ -86,14 +89,5 @@ docker run -d -p 8000:8000 --name nypost-container nypost-api
        ```
        docker run -d -p 8000:8000 YOUR_DOCKERHUB_USERNAME/nypost-api:v1
        ```
- ## Part G - 🌐 Accessing the API
-
-* Once deployed, verify the service is functioning by visiting the following links:
-
-* Live JSON Headlines: http://localhost:8000/headlines
-
-Interactive Documentation (Swagger UI): http://localhost:8000/docs
-
-
 
        
