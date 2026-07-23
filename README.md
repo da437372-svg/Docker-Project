@@ -23,7 +23,7 @@ mkdir nypost-api
 cd nypost-api
 ```
 
-## 🛠️ Part C - Create and Configure the Application Entry Point
+## 🛠️ Part C - Typed Query from Chatgpt to generate the python program
 
 * Launch Visual Studio Code (or your preferred editor) from the terminal to create the primary Python application script:
 ```
