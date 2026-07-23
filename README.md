@@ -5,10 +5,10 @@
 
 ## 🚀 Pre-requisites - Basic Docker lifecycle understanding , Docker desktop Pre-installed and ruuning, and Expereince with pushing docker image to docker-hub.
 ## Part A - Installing the core python packages in the terminal-
-* FastAPI (web framework)
-* Uvicorn (ASGI web server)
-* Requests (HTTP client)
-* APScheduler (task scheduling engine)
+* FastAPI - Installs the web framework used to build and handle your API routes and endpoints.
+* Uvicorn - Installs the web server needed to run and serve your FastAPI application.
+* Requests - Installs a library that allows your Python code to send HTTP requests to external APIs or websites.
+* APScheduler - Installs a task scheduler to run specific Python code automatically on a set schedule or interval.
   
 ```
 pip install fastapi uvicorn requests apscheduler
